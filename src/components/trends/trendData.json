@@ -1,0 +1,64 @@
+{
+  "trends": [
+    {
+      "id": 1,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 2,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 3,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 4,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 5,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 6,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 7,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 8,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 9,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    },
+    {
+      "id": 10,
+      "name": "Trend",
+      "category": "Category ",
+      "numberOfTweets": 14.4
+    }
+  ]
+}

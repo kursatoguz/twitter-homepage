@@ -1,0 +1,121 @@
+.search {
+  position: relative;
+  width: 100%;
+  color: #8d99a2;
+  margin-bottom: 1rem;
+  background-color: #fff;
+  padding: 0.5rem 0;
+  position: fixed;
+  top: 0;
+}
+.search-icon {
+  position: absolute;
+  top: 60%;
+  left: 1rem;
+  transform: translateY(-60%);
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.search input {
+  width: 21%;
+  border: none;
+  padding: 0.8rem 3rem;
+  border-radius: 1.5rem;
+  font-size: 0.9rem;
+  outline: none;
+  background-color: #eff3f4;
+}
+.trends-container {
+  background-color: #f7f9f9;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+.margin {
+  margin-top: 4rem;
+}
+.trends-container h3 {
+  font-size: 1.2rem;
+  padding: 1rem;
+  padding-bottom: 0;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 1rem;
+}
+.trend {
+  color: #536471;
+  padding: 0.8rem;
+}
+.trend:hover {
+  background-color: #eeeeee;
+  cursor: pointer;
+}
+.trend-infos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.small {
+  font-size: 0.8rem;
+}
+.more-icon {
+  font-size: 1.2rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  position: relative;
+}
+
+.trend-name {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #000;
+  padding: 0.2rem 0;
+}
+
+.follow-btn {
+  background-color: #000;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+}
+.follow-btn:hover {
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+}
+.user-infos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.image-name {
+  display: flex;
+  align-items: center;
+}
+.user-name {
+  padding-left: 0.5rem;
+}
+.rec-users {
+  padding: 1rem;
+}
+.rec-users:hover {
+  background-color: #eeeeee;
+  cursor: pointer;
+}
+footer {
+  padding: 1rem;
+  padding-top: 0.5rem;
+  margin-bottom: 4rem;
+}
+.footer-text {
+  font-size: 0.8rem;
+  color: #536471;
+  padding-right: 0.5rem;
+}
+.footer-text:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
